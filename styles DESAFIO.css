@@ -97,6 +97,10 @@ p {
     text-align: center;
   }
 
+  h1 {
+    font-size: 56px;
+  }
+
   p {
     text-align: center;
     margin-left: 43px;
@@ -108,7 +112,6 @@ p {
     display: block;
     position: absolute;
     top: 490px;
-    margin-left: auto;
-    margin-right: auto;
+
   }
 }
